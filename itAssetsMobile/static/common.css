@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'siyuan';
+	src: url('/static/fonts/SourceHanSans.ttf').format('truetype');
+}
+
+body {
+	font-family: 'siyuan' sans-serif;
+}
